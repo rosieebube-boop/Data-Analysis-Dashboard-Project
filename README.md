@@ -1,2 +1,5 @@
 # Data-Analysis-Dashboard-Project
-I developed a dashboard of an Excel CSV file dataset using Excel, Tableau and Power BI. This process involved me cleaning the data, formatting it and creating visualizations.
+## Project
+I used the Sales Dataset of a random company to create visualizations using Ms Excel, Tableau and Power BI. The Dataset involes information about the companies sales from 2023-2025. 
+## Dataset used
+- <a href="https://github.com/rosieebube-boop/Data-Analysis-Dashboard-Project/commit/d44d1ef5a0f11b9438a1b8831e07c0ff46fcb0f4">Dataset</a>
