@@ -5,11 +5,14 @@ I used the Sales Dataset of a random company to create visualizations using Ms E
 - <a href="https://github.com/rosieebube-boop/Data-Analysis-Dashboard-Project/commit/d44d1ef5a0f11b9438a1b8831e07c0ff46fcb0f4">Dataset</a>
 
 ## Questions(KPI's)
-Best selling product
-Compare the revenue per year
-Which state has the most orders?
-Compare the profit per year
-Which states generates the most revenue
+-Best selling product.
+-Compare the revenue per year.
+-Which state has the most orders?
+-Compare the profit per year.
+-Which states generates the most revenue?
+
+## Excel Dashboard
+<a href="https://github.com/rosieebube-boop/Data-Analysis-Dashboard-Project/blob/main/Screenshot%20(48).png">Excel Dashboard</a> 
 
 ## Process
 Cleaned the Dataset on MS Excel
